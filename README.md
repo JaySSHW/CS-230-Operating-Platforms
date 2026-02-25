@@ -6,6 +6,8 @@ The client, The Gaming Room, wanted to expand their Android game Draw It or Lose
 I believe I did well organizing the design document in a clear, professional format. I explained the requirements, design constraints, domain model, and platform evaluation in a way that both technical and non-technical readers could understand. My evaluation of Linux, macOS, Windows, and mobile platforms showed thoughtful analysis about scalability, cost, and system performance.
 ### How the Design Helped My Coding
 Working through the design document before coding helped me understand how the classes and system components should interact. Planning the Entity hierarchy and GameService Singleton early made it easier to visualize how the application would manage games, teams, and players consistently.
+### What I Would Revise
+If I revised one section, I would improve the system architecture portion by adding diagrams showing the three-tier architecture and cloud deployment options. This would make the design easier to understand and more realistic for enterprise-level development.
 ### Understanding User Needs
 I interpreted user needs by focusing on gameplay fairness, accessibility, and cross-platform support. Players need an easy way to create games, join teams, and play smoothly without naming conflicts or system errors. Considering user needs is essential because software only succeeds if it provides a reliable and enjoyable experience.
 ### My Design Approach
